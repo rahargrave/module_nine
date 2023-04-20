@@ -54,7 +54,7 @@ inquirer
         },
         {
             type: 'list',
-            message: 'Input license for poject',
+            message: 'Select license for project',
             choices: ["MIT", "IBM", "Apache","Mozilla", "N/A"],
             name: 'license',
 
@@ -93,6 +93,8 @@ inquirer
         : console.log('success')})
     })
 
+
+//Function to create badges
 const renderBadge = (license) => {
     if (license === "MIT") { 
         return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
@@ -125,7 +127,6 @@ ${renderBadge(license)}
 - ${learn}
 
 ## Table of Contents
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -152,7 +153,7 @@ ${renderBadge(license)}
 -${tests}
 
 ## Questions? Contact me @
--GitHub: ${github}
+-GitHub: ${github}    
 -Email: ${email}`
 
 }
