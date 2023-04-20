@@ -1,7 +1,8 @@
 # Module 9 - README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![Watch the Video](https://drive.google.com/file/d/10f7gy4cRdW3h8cDKqPfA0C1-5bI71er5/view)]
+[![Watch the Video Demonstration](https://clearmeasure.com/wp-content/uploads/2022/06/README-File-blog-1568x774.jpg)](https://drive.google.com/file/d/10f7gy4cRdW3h8cDKqPfA0C1-5bI71er5/view)
+Click to watch the video
 
 ## Description
 
